@@ -1,0 +1,3 @@
+figure.dpi     : 150
+savefig.format  :  "svg"
+axes.grid       :  True
